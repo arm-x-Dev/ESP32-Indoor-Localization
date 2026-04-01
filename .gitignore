@@ -1,0 +1,14 @@
+# Arduino IDE temporary build folders
+build/
+bin/
+
+# External hardware/libraries
+libraries/
+
+# Compiled files
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.a
